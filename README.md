@@ -1,5 +1,7 @@
 # Infrapuna puldi repiiter-konverter
 
+Video pitch: https://youtu.be/JT-QP3eXBzc
+
 **Vahendid:** robotikomplekt + Sony pult + Arduino moodul + lisa nRF moodul
 
 **Tulemus:** Arduino moodul võtab vastu Sony infrapuna signaali (erinev loogika Samsungist) ning tuvastab vastuvõetud nupu. Seejärel edastab vastuvõetud nupu kohta informatsiooni läbi jadaliidese monitori kui ka üle nRF raadioside mooduli robotile. Robot võtab üle nRF raadioside mooduli vajutatud nupu informatsiooni vastu ning kodeerib nupu informatsiooni Samsungi standardi järgi ning saadab infrapuna LEDi kasutatud signaali välja. Väljasaadetud signaali saab katsetada kooli Samsungi televiisoritel.
